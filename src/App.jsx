@@ -26,7 +26,7 @@ function App() {
       id: 1,
       nombre: "Mi Portafolio",
       descripcion: "Portfolio personal creado con React.",
-      link: "https://github.com/ignas11/Mi-Portafolio",
+      link: "https://github.com/ignas11/Portafolio",
     },
     {
       id: 2,
