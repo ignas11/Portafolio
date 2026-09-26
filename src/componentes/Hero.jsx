@@ -5,7 +5,6 @@ function Hero({ nombre, profesion, descripcion }) {
     <section className="hero">
       <h1>Hola, soy {nombre}</h1>
       <h2>{profesion}</h2>
-      <p>{descripcion}</p>
     </section>
   );
 }

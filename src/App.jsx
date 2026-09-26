@@ -70,7 +70,6 @@ function App() {
       <Hero
         nombre={persona.nombre}
         profesion={persona.profesion}
-        descripcion={persona.descripcion}
       />
 
       <Me
