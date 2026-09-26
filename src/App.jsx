@@ -26,19 +26,19 @@ function App() {
       id: 1,
       nombre: "Mi Portafolio",
       descripcion: "Portfolio personal creado con React.",
-      link: "https://github.com/ignacio-gonzalez-dupuy/mi-portafolio",
+      link: "https://github.com/ignas11/Mi-Portafolio",
     },
     {
       id: 2,
       nombre: "Coder House Messi",
       descripcion: "Proyecto realizado con HTML y CSS.",
-      link: "https://github.com/ignacio-gonzalez-dupuy/coder-house-messi",
+      link: "https://github.com/ignas11/CoderHouse-Messi",
     },
     {
       id: 3,
       nombre: "JavaScripts Ignacio Gonzalez Dupuy",
       descripcion: "Proyecto para practicar JavaScript.",
-      link: "https://github.com/ignacio-gonzalez-dupuy/JavaScripts-Inacio-Gonzalez-Dupuy",
+      link: "https://github.com/ignas11/JavaScripts-Inacio-Gonzalez-Dupuy",
     },
   ];
 
