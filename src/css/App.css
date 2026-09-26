@@ -1,0 +1,28 @@
+.app {
+  color: #243447;
+}
+
+body {
+  margin: 0;
+  background-color: #f3f7fb;
+}
+
+.app {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+.projects-section,
+.courses-section {
+  margin-top: 20px;
+}
+
+.course-card {
+  margin: 10px 0;
+  padding: 12px;
+  border: 1px solid #c9d7e5;
+  border-radius: 6px;
+  background-color: white;
+}

@@ -1,0 +1,10 @@
+.knowledge {
+  margin-top: 20px;
+  padding: 20px;
+  border-left: 4px solid #2f80b9;
+  background-color: white;
+}
+
+.knowledge h2 {
+  color: #244b68;
+}
