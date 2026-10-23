@@ -1,6 +1,6 @@
 import "../css/Hero.css";
 
-function Hero({ nombre, profesion, descripcion }) {
+function Hero({ nombre, profesion, }) {
   return (
     <section className="hero">
       <h1>Hola, soy {nombre}</h1>
