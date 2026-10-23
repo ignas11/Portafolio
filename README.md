@@ -1,30 +1,41 @@
-# Portfolio Personal - Ignacio Gonzalez Dupuy
+# Portfolio Personal — Ignacio González Dupuy
 
-## Descripción
+Trabajo práctico de portfolio multipágina realizado con React, Vite y React Router DOM.
 
-Este proyecto es un portfolio personal creado como trabajo práctico utilizando React y Vite.
+## Datos
 
-En el portfolio se muestra información personal, conocimientos, proyectos realizados, cursos y medios de contacto.
+- Estudiante: Ignacio González Dupuy
+- Comisión: 7
+- Repositorio: [ignas11/Portafolio](https://github.com/ignas11/Portafolio)
 
-## Tecnologías utilizadas
+## Tecnologías
 
-- React
+- React 19 y React Router DOM
 - Vite
-- JavaScript
-- JSX
-- CSS
+- JavaScript, JSX y CSS
 
 ## Funcionalidades
 
-- Renderizado de proyectos y cursos mediante `map()`.
-- Uso de componentes y props.
-- Botón “Ver más / Ver menos” usando `useState`.
-- Renderizado condicional de información adicional.
-- Enlaces a repositorios de GitHub.
+- Navegación multipágina con `BrowserRouter`, `Routes`, `Route` y `NavLink`.
+- Menú lateral persistente y responsive.
+- Páginas de inicio, sobre mí, habilidades, proyectos y contacto.
+- Habilidades y proyectos generados dinámicamente con `map()`.
+- Tarjetas reutilizables que reciben datos mediante props.
+- Botón para expandir u ocultar el detalle de cada proyecto mediante `useState`.
 
-## Instalación
-
-Clonar el repositorio:
+## Ejecutar localmente
 
 ```bash
 git clone https://github.com/ignas11/Portafolio.git
+cd Portafolio
+npm install
+npm run dev
+```
+
+Luego abrir la dirección indicada por Vite (normalmente `http://localhost:5173`).
+
+## Compilación de producción
+
+```bash
+npm run build
+```
