@@ -259,6 +259,21 @@ nav {
     flex: 1;
 }
 
+.project-date,
+.projects-message {
+    color: #7f9b90;
+    font: .72rem 'DM Mono';
+}
+
+.project-date {
+    display: block;
+    margin: 0 0 18px;
+}
+
+.projects-message {
+    margin: -22px 0 24px;
+}
+
 .card-actions {
     display: flex;
     align-items: center;
